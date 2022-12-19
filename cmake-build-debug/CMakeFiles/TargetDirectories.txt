@@ -1,0 +1,3 @@
+C:/Users/Ahmed M.Sallam/CLionProjects/suffixtree/cmake-build-debug/CMakeFiles/suffixtree.dir
+C:/Users/Ahmed M.Sallam/CLionProjects/suffixtree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed M.Sallam/CLionProjects/suffixtree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
